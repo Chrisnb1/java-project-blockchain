@@ -29,7 +29,7 @@ _Registrar un usuario [POST] :_
 http://localhost:8094/registration
 ```
 
-_Validar un usuario [GET]:_
+_Validar un usuario [GET] :_
 ```
 http://localhost:8094/login
 ```
