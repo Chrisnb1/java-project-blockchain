@@ -8,5 +8,5 @@ _Clonar el repositorio_
 git clone https://github.com/Chrisnb1/java-project-blockchain
 ```
 
-_Para ejecutar la aplicación (backend o frontend), leer los **README** en cada carpeta_
+_Para ejecutar la aplicación (backend o frontend), leer los **README** en cada carpeta._
 
