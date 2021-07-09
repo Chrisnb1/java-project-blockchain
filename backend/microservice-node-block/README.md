@@ -1,5 +1,5 @@
 # Microservicio Nodo-Bloque
-Este es el microservicio nodo-bloque
+Este es el microservicio nodo-bloque.
 
 ## Instrucciones
 Para ejecutar este microservicio en **IntelliJ** realizar lo siguiente.
@@ -25,7 +25,8 @@ java-project-blockchain/backend/microservice-node-block/node-block/src/main/java
 ```
 
 ## EndPoints
-Estos son todos los endpoints de la API
+Estos son todos los endpoints de la API.
+
 _Obtener la cadena de bloques:_
 
 ```
