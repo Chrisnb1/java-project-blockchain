@@ -27,43 +27,43 @@ java-project-blockchain/backend/microservice-node-block/node-block/src/main/java
 ## EndPoints
 Estos son todos los endpoints de la API.
 
-_Obtener la cadena de bloques:_
+_Obtener la cadena de bloques [GET] :_
 
 ```
 http://localhost:8093/blocks
 ```
 
-_Obtener el ultimo bloque de la cadena:_
+_Obtener el ultimo bloque de la cadena [GET] :_
 
 ```
 http://localhost:8093/lastblock
 ```
 
-_Crear un bloque y transmitirlo a la red:_
+_Crear un bloque y transmitirlo a la red [POST] :_
 
 ```
 http://localhost:8093/createblock?send=true
 ```
 
-_Guardar un bloque proveniente de otro nodo:_
+_Guardar un bloque proveniente de otro nodo [POST] :_
 
 ```
 http://localhost:8093/lastblock
 ```
 
-_Guardar una cadena bloques proveniente de otro nodo:_
+_Guardar una cadena bloques proveniente de otro nodo [POST] :_
 
 ```
 http://localhost:8093/saveblockchain
 ```
 
-_Obtener todas las URL´s de los nodos en la red:_
+_Obtener todas las URL´s de los nodos en la red [GET] :_
 
 ```
 http://localhost:8093/urlnodes
 ```
 
-_Agregar un nodo a la red:_
+_Agregar un nodo a la red [POST] :_
 
 ```
 http://localhost:8093/addnode
