@@ -19,9 +19,8 @@ Mayus+F10 o Ejecutar manualmente
 
 # EndPoints
 Estos son todos los endpoints de la API.
-_Obtener la lista de usuarios:_
+_Obtener la lista de usuarios [GET] :_
 ```
-[GET]
 http://localhost:8094/users
 ```
 
@@ -30,8 +29,7 @@ _Registrar un usuario [POST] :_
 http://localhost:8094/registration
 ```
 
-_Validar un usuario:_
+_Validar un usuario [GET]:_
 ```
-[GET]
 http://localhost:8094/login
 ```
