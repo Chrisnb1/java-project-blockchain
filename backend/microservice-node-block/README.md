@@ -39,7 +39,7 @@ _Obtener el ultimo bloque de la cadena:_
 http://localhost:8093/lastblock
 ```
 
-_Crear un bloque y reestransmitirlo:_
+_Crear un bloque y transmitirlo a la red:_
 
 ```
 http://localhost:8093/createblock?send=true
