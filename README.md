@@ -1,4 +1,4 @@
-# java Project Blockchain
+# Java Project Blockchain
 Proyecto: App web (Wallet) bajo funcionamiento de una **BLOCKCHAIN**. Hecho en java.
 
 ## Instrucciones
