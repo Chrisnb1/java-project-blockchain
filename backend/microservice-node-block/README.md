@@ -8,7 +8,10 @@ _Abrir el archivo pom ubicado en:_
 ```
 java-project-blockchain/backend/microservice-node-block/node-block/pom.xml
 ```
-
+_La base de datos utilizada es **MongoDB (atlas)**. Para su uso, configurar el archivo **aplication.properties** ubicado en:_
+```
+java-project-blockchain/backend/microservice-node-block/node-block/src/main/resources/application.properties
+```
 _*Levantar previamente el servicio en IntelliJ con:*_
 ```
 Mayus+F10 o Ejecutar manualmente
@@ -22,4 +25,4 @@ java-project-blockchain/backend/microservice-node-block/node-block/src/main/java
 ```
 
 ## EndPoints
-_Se puede_
+_Estos son todos los endpoints de la API_
