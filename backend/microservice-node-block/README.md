@@ -31,28 +31,24 @@ _Obtener la cadena de bloques:_
 
 ```
 http://localhost:8093/blocks
-
 ```
 
 _Obtener el ultimo bloque de la cadena:_
 
 ```
 http://localhost:8093/lastblock
-
 ```
 
 _Crear un bloque y reestransmitirlo:_
 
 ```
 http://localhost:8093/createblock?send=true
-
 ```
 
 _Guardar un bloque proveniente de otro nodo:_
 
 ```
 http://localhost:8093/lastblock
-
 ```
 
 _Guardar una cadena bloques proveniente de otro nodo:_
