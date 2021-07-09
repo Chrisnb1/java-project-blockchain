@@ -25,9 +25,8 @@ _Obtener la lista de usuarios:_
 http://localhost:8094/users
 ```
 
-_Registrar un usuario:_
+_Registrar un usuario [POST] :_
 ```
-[POST]
 http://localhost:8094/registration
 ```
 
