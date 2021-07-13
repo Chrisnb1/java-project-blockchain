@@ -33,25 +33,25 @@ public class RestClient {
 
     public static void main(String[] args) throws URISyntaxException, IOException {
         /** OBTENER LA CADENA DE BLOQUES **/
-        //CallGetAllBlocksAPI();
+        CallGetAllBlocksAPI();
 
         /** OBTENER ULTIMO BLOQUE DE LA CADENA DE BLOQUES **/
-        //CallGetLastBlockAPI();
+        CallGetLastBlockAPI();
 
         /** CREAR UN BLOQUE EN EL NODO **/
-        //CallCreateNewBlockAPI();
+        CallCreateNewBlockAPI();
 
         /** AÑADIR UN BLOQUE DESDE OTRO NODO **/
-        //callSaveBlockAPI();
+        callSaveBlockAPI();
 
         /** COMPARAR LA CADENA DE BLOQUES POR OTRA **/
-        //callSaveBlockchainAPI();
+        callSaveBlockchainAPI();
 
         /** OBTENER LAS URLS DE LOS NODOS EN LA RED **/
-        //callGetAllUrlsNodesAPI();
+        callGetAllUrlsNodesAPI();
 
         /** AÑADIR UN NODO A LA RED **/
-        //callAddNodeAPI();
+        callAddNodeAPI();
 
     }
 
